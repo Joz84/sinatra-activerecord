@@ -1,0 +1,17 @@
+<h1>Bonjour</h1>
+
+<%= Time.now %>
+
+<ul>
+<% @restaurants.each do |restaurant| %>
+  <li>
+    <strong>
+    <a href="/restaurants/<%= restaurant.id %>">
+      <%= restaurant.name %>
+    </a>
+    </strong>
+    - <%= restaurant.description %>
+    </li>
+<% end %>
+</ul>
+

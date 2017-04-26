@@ -1,0 +1,2 @@
+Restaurant.create(name: "Chez coco", description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates sed quis blanditiis, nisi quasi molestiae soluta, reprehenderit similique natus omnis perferendis quas suscipit doloremque est! Cum impedit nihil autem? Quia?")
+Restaurant.create(name: "L'évidence", description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates sed quis blanditiis, nisi quasi molestiae soluta, reprehenderit similique natus omnis perferendis quas suscipit doloremque est! Cum impedit nihil autem? Quia?")
